@@ -193,6 +193,15 @@ HVDCLosses
 HVDCFlowDirectionVariable
 VoltageMagnitude
 VoltageAngle
+TimeDurationOn
+TimeDurationOff
+PowerOutput
+PowerFlowVoltageAngle
+PowerFlowVoltageMagnitude
+PowerFlowLineReactivePowerFromTo 
+PowerFlowLineReactivePowerToFrom
+PowerFlowLineActivePowerFromTo
+PowerFlowLineActivePowerToFrom
 ```
 
 ### Services Variables
